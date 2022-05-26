@@ -59,7 +59,7 @@ const paraPengguna = [
 ];
 
 const firstUser = {
-    nama : paraPengguna[0].nama,
+    name : paraPengguna[0].nama,
     gender : paraPengguna[0].gender,
     age : paraPengguna[0].age,
     email : paraPengguna[0].email,
@@ -69,7 +69,7 @@ const firstUser = {
     favoriteRestaurant : [...favoriteRestaurantMonica]
 };
 const secondUser = {
-    nama : paraPengguna[1].nama,
+    name : paraPengguna[1].nama,
     gender : paraPengguna[1].gender,
     age : paraPengguna[1].age,
     email : paraPengguna[1].email,
